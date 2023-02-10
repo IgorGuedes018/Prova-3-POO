@@ -24,10 +24,5 @@ public class CarrinhoCompras {
 	public void incluirItens() {
 		
 	}
-	public ArrayList<Produto>  buscarProduto(){
-		ArrayList<Produto> p = new ArrayList<>();
-		return p;
-	}
-	
 
 }
